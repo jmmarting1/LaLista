@@ -462,6 +462,12 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosports2.jpg.pagespeed.ic.IYbeltHOWV.jpg" group-title="Eurosport" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
 acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosports2.jpg.pagespeed.ic.IYbeltHOWV.jpg" group-title="Eurosport" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
+acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosports2.jpg.pagespeed.ic.IYbeltHOWV.jpg" group-title="Eurosport" tvg-id="Eurosport 2 HD", Eurosport 2 HD
+acestream://5c910d614894635153a7d42de98cc2e4a958a53f
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Eurosport_3_HD.svg/revision/latest?cb=20191222140254" group-title="Eurosport" tvg-id="Eurosport 3 FHD", Eurosport 3 FHD
 acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
 
